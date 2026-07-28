@@ -11,8 +11,8 @@ Contente of the folder
 │   └── 2.Phenotypes_GxEModels.txt
 |
 └── Analyses
-    └── 1.RUNME_Plot_h2.R
-    └── 2.ANOVA_Tukey.R
+|   └── 1.RUNME_Plot_h2.R
+|   └── 2.ANOVA_Tukey.R
 |
 └── Figures
     └── Clades.png
