@@ -10,6 +10,10 @@ Contente of the folder
 |   └── 1.Phenotypes_bySeason.txt 
 │   └── 2.Phenotypes_GxEModels.txt
 |
+└── Analyses
+    └── 1.RUNME_Plot_h2.R
+    └── 2.ANOVA_Tukey.R
+|
 └── Figures
     └── Clades.png
 
