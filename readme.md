@@ -6,8 +6,6 @@
 ### Still organizing it
 
 
-
-
-## Clades Figure
+***
 
 ![Clades Figure](Figures/Clades.svg)
