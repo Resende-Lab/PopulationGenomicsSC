@@ -1,4 +1,4 @@
-## Repository for sharing codes and data from the paper: *The Evolution of Starch Biosynthesis During Post-Domestication Improvement in Sweet Corn*
+## *The Evolution of Starch Biosynthesis During Post-Domestication Improvement in Sweet Corn*
 
 
 -----
@@ -10,6 +10,4 @@
 
 ## Clades Figure
 
-## Clades Figure
-
-![Clades Figure](Figures/Clades.pdf)
+![Clades Figure](Figures/Clades.svg)
