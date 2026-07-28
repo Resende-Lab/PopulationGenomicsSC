@@ -2,9 +2,20 @@
 
 
 -----
+.
+├── Data
+|   └── 1.Phenotypes_bySeason.txt 
+│   └── 2.Phenotypes_GxEModels.txt
+|
+└── Figures
+    └── Clades.png
+```
+
+-----
 
 
-
-***
 
 ![Clades Figure](Figures/Clades.png)
+
+
+
