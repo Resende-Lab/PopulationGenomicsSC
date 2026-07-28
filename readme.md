@@ -8,4 +8,4 @@
 
 ***
 
-![Clades Figure](Figures/Clades.svg)
+![Clades Figure](Figures/Clades.png)
