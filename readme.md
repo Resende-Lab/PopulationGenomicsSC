@@ -3,6 +3,7 @@
 
 -----
 
+Contente of the folder
 ```
 .
 ├── Data
@@ -17,7 +18,7 @@
 
 -----
 
-
+The Clades in high resolution. To see all the name in th three, download the file by clicking on it.
 
 ![Clades Figure](Figures/Clades.png)
 
