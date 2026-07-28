@@ -8,3 +8,6 @@
 
 
 
+## Clades Figure
+
+[View the Clades figure (PDF)](Figures/Clades.pdf)
