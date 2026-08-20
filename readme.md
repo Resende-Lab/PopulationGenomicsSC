@@ -1,5 +1,12 @@
-## *The Evolution of Starch Biosynthesis During Post-Domestication Improvement in Sweet Corn*
+### The Evolution of Starch Biosynthesis During Post-Domestication Improvement in Sweet Corn
 
+
+This repository was created to store and share the data and scripts for the paper above. 
+
+DOI:
+
+
+Below, we described the content.
 
 -----
 
