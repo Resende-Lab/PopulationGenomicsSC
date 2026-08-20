@@ -15,7 +15,7 @@ Contente of the folder
 └── Analyses
 |   └── 1.Figure2_Plot_PCA.R
 |   └── 2.SupMat_Plot_h2.R
-|   └── 2.ANOVA_Tukey.R
+|   └── auxFunctions_GAPIT.R # Modified version of GAPIT with a PCA running on 1M markers only
 |   └── 2.ANOVA_Tukey.R
 |
 └── Figures
