@@ -17,7 +17,7 @@ library(dplyr)
 library(ggplot2)
 
 ###-----------------------------------
-####---- 3. Traits
+####---- 2. Traits
 ###-----------------------------------
 
 
@@ -46,7 +46,8 @@ ggplot(dat, aes(Trait, Heritability, fill = Year)) +
     values = c(
       "22" = "#ACA4E2",
       "21" = "blue",
-      "19" = "wheat"
+      "19" = "wheat",
+      "GxE" = "grey"
     )
   ) +
   theme(
