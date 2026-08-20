@@ -9,9 +9,13 @@ Contente of the folder
 ├── Data
 |   └── 1.Phenotypes_bySeason.txt 
 │   └── 2.Phenotypes_GxEModels.txt
+│   └── 3.dataH2.txt
+│   └── 4.EigenValues_5MSet.txt
 |
 └── Analyses
-|   └── 1.RUNME_Plot_h2.R
+|   └── 1.Figure2_Plot_PCA.R
+|   └── 2.SupMat_Plot_h2.R
+|   └── 2.ANOVA_Tukey.R
 |   └── 2.ANOVA_Tukey.R
 |
 └── Figures
