@@ -15,8 +15,7 @@ rm(list=ls())
 
 library(dplyr)
 library(ggplot2)
-library("ggridges")
-theme_set(theme_minimal())
+
 
 ###-----------------------------------
 ####---- 2. Colors
@@ -100,8 +99,8 @@ legend_labels <- c(
 )
 
 ####::::::::::::::::::::::::::::::::::::::::::::
-#png("1.Figure_2.png", width = 18, height = 10, units = 'in', res = 300)
-svg("1.Figure_2v1.svg", width = 12, height = 10)
+png("1.Figure_2.png", width = 18, height = 10, units = 'in', res = 300)
+#svg("1.Figure_2v1.svg", width = 12, height = 10)
 
 ggplot(df_plot, aes(PC1, PC2, fill = clade.name)) +
   geom_point(
